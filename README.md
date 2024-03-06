@@ -5,7 +5,7 @@ _My application for scan network_
 Run NetTester.exe
 
 # Download
-Click [link](https://github.com/lukmasko/RcpParser/raw/main/NetTester_latest_portable.zip) to download executable version 1.00
+Click [link](https://github.com/lukmasko/NetTester/raw/main/NetTester_latest_portable.zip) to download executable version 1.00
 
 # Screen
 Scan OK

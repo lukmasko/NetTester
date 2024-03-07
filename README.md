@@ -10,17 +10,21 @@ Click [link](https://github.com/lukmasko/NetTester/raw/main/NetTester_latest_por
 Click [link](https://github.com/lukmasko/NetTester/raw/main/NetTester_framework4_8_portable.zip) to download executable version of old .net framework
 
 # Screen
-Scan OK
+<p>Scan OK</p>
 <p>
 	<img src="images/allok.jpg"/>
 </p>
 
 
-Scan with error
-![Scan with error](images/errors.jpg)
+<p>Scan with error</p>
+<p>
+	<img src="images/errors.jpg"/>
+</p>
 
-Validate data
-![Valid danta](images/valid.jpg)
+<p>Validate data</p>
+<p>
+	<img src="images/valid.jpg"/>
+</p>
 
 # Technology stack
 C#

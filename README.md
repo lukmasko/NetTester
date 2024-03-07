@@ -11,10 +11,10 @@ Click [link](https://github.com/lukmasko/NetTester/raw/main/NetTester_framework4
 
 # Screen
 Scan OK
-<p align="center">
+<p>
 	<img src="images/allok.jpg"/>
 </p>
-![Scan OK](images/allok.jpg)
+
 
 Scan with error
 ![Scan with error](images/errors.jpg)
